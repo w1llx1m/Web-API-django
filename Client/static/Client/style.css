@@ -1,0 +1,28 @@
+
+
+.column is-5 {
+    border-radius: 3%;
+    filter: grayscale(100%);
+}
+
+
+.custom-shape-divider-top-1738759838 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1738759838 svg {
+    position: relative;
+    display: block;
+    width: calc(137% + 1.3px);
+    height: 198px;
+}
+
+.custom-shape-divider-top-1738759838 .shape-fill {
+    fill: #000000;
+}
+
